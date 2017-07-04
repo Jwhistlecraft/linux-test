@@ -1,3 +1,15 @@
+C
+B
+C
+D
+A
+C
+D
+A
+A
+B
+B
+B
 #!/usr/bin/env bash
 #Install Java, maven and git
 
